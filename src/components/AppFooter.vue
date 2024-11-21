@@ -27,6 +27,7 @@
   overflow: hidden;
 }
 
+
 /* Decorative gradient circles in the footer background */
 .footer::before,
 .footer::after {
