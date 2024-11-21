@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #007bff; /* Main color */
+    --secondary-color: #6c757d; /* Text secondary color */
+    --background-color: #f8f9fa; /* Background color */
+    --text-color: #333; /* Main text color */
+    --heading-font: 'Roboto', sans-serif;
+    --body-font: 'Open Sans', sans-serif;
+    --border-radius: 12px; /* Rounded corners */
+    --button-hover-color: #0056b3; /* Hover color for buttons */
+    --modal-background-color: #fff;
+  }
+  
+  
