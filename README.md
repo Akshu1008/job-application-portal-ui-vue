@@ -50,9 +50,7 @@ A modern code editor like VS Code
 
 Here is an overview of the frontend's file structure:
 
-<img width="646" alt="file structure" src="https://github.com/user-attachments/assets/7e4313ae-37d3-4aae-b9bf-85f70e740168">
-
-
+<img width="646" alt="file structure" src="https://github.com/user-attachments/assets/62f79b8c-a127-4ecf-a109-977e2ffadbca">
 
 
 
@@ -60,28 +58,29 @@ Here is an overview of the frontend's file structure:
 
 Homepage
 
-<img width="1467" alt="Homepage" src="https://github.com/user-attachments/assets/619b24aa-d60a-47a0-8f56-770e322e2cf3">
+<img width="1467" alt="Homepage" src="https://github.com/user-attachments/assets/f94cb631-e2c2-478c-8753-7c0068b453b1">
 
 
 Job Details Modal
-<img width="1467" alt="job details" src="https://github.com/user-attachments/assets/155ab985-1b10-4fa3-9a06-dc48ce50ece6">
+
+<img width="1467" alt="job details" src="https://github.com/user-attachments/assets/6c402efa-d1a4-4c2a-8706-e2f723467c2b">
 
 
 Application Form
-<img width="1467" alt="job form" src="https://github.com/user-attachments/assets/972296d7-6708-4d8d-8e34-5cd69fb30824">
 
-<img width="1467" alt="job form validation" src="https://github.com/user-attachments/assets/120c3ea8-5cb1-4822-a454-de663412ceed">
+<img width="1467" alt="job form" src="https://github.com/user-attachments/assets/1e7a61f5-4f4b-4891-83e4-d2fa682c6075">
 
+<img width="1467" alt="job form validation" src="https://github.com/user-attachments/assets/4864d40d-f828-4e87-98dd-89a3ba1448df">
 
 
 Header
-<img width="1467" alt="Homepage" src="https://github.com/user-attachments/assets/78fb00da-d4e8-4767-b9c2-5be81732a299">
+<img width="1467" alt="Homepage" src="https://github.com/user-attachments/assets/1bc62444-b14a-49d7-b10a-47d189954603">
 
 
 
 Footer
+<img width="1467" alt="Footer" src="https://github.com/user-attachments/assets/5acccb8f-a1c2-4f06-be2a-cb8081ff1781">
 
-<img width="1467" alt="Footer" src="https://github.com/user-attachments/assets/accde628-4e15-433f-b2e4-a9e3d93bcfe5">
 
 
 🔧 Installation
