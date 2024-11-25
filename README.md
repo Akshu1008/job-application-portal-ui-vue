@@ -12,6 +12,8 @@ Displays a list of job postings, each showing
 Job title, company name, location, and a brief description.
 A "View Details" button to open a detailed job view in a modal.
 Includes hover effects and animations to enhance interactivity.
+Search based on company name or job title and also based on location dropdown provided.
+
 
 Job Details Modal:
 Provides detailed information about a selected job:
@@ -23,7 +25,7 @@ Allows users to submit their information
 Fields: Name, email, and resume upload.
 Input validation to ensure proper data entry.
 Displays a success message upon submission.
-
+clear button claers the form input filled.
 
 Responsive Design:
 Fully optimized for all devices
@@ -58,24 +60,25 @@ Here is an overview of the frontend's file structure:
 
 Homepage
 
-<img width="1467" alt="Homepage" src="https://github.com/user-attachments/assets/f94cb631-e2c2-478c-8753-7c0068b453b1">
+<img width="1470" alt="homepage1" src="https://github.com/user-attachments/assets/3519f364-a7bb-4beb-98fb-14e5206059fa">
 
 
 Job Details Modal
+<img width="1470" alt="detailform" src="https://github.com/user-attachments/assets/f40290a3-c3b2-407b-9ed2-15806e62eaeb">
 
-<img width="1467" alt="job details" src="https://github.com/user-attachments/assets/6c402efa-d1a4-4c2a-8706-e2f723467c2b">
 
 
 Application Form
+<img width="1470" alt="applicationform1" src="https://github.com/user-attachments/assets/6715500d-881d-421f-97a1-0b1039523dc1">
 
-<img width="1467" alt="job form" src="https://github.com/user-attachments/assets/1e7a61f5-4f4b-4891-83e4-d2fa682c6075">
 
-<img width="1467" alt="job form validation" src="https://github.com/user-attachments/assets/4864d40d-f828-4e87-98dd-89a3ba1448df">
+Validation
+<img width="1470" alt="validation" src="https://github.com/user-attachments/assets/f4b926a0-e977-4d37-97cd-6ab619d4c7dd">
 
 
 Header
-<img width="1467" alt="Homepage" src="https://github.com/user-attachments/assets/1bc62444-b14a-49d7-b10a-47d189954603">
 
+<img width="1470" alt="homepage1" src="https://github.com/user-attachments/assets/da9e3add-3984-4095-af6e-4171a22e0ecd">
 
 
 Footer
